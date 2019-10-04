@@ -2,7 +2,7 @@ very first time on a computer
 -----------------------------
 
     git config --global user.name "Jing-Shan Wong"
-    git config --global user.email "joshdragonwong@gmail.com"
+    git config --global user.name "Jing-Shan Wong"
 
 once every new project inthe project folder
 ----------------------------------------------
